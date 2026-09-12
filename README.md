@@ -4,6 +4,7 @@
 2.Description : This is a react-typescript based project. Where we have used basic & fundamental knowledge of react. This projects helps us to build our practical knowledge on                  a javascript library like react.
 
 3.Technologies: React.js,TailwindCSS,DaisyUI,Typescript,React-Toastify,Vite etc.
+
 4. Features: we can add any of the presented technology card , we can delete any of the technology or all selected technology from the stack & this project is responsive for                all mobile , tablet & pc versions.
 
 
