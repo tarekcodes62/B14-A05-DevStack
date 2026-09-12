@@ -5,7 +5,7 @@
 
 3.Technologies: React.js,TailwindCSS,DaisyUI,Typescript,React-Toastify,Vite etc.
 
-4. Features: we can add any of the presented technology card , we can delete any of the technology or all selected technology from the stack & this project is responsive for                all mobile , tablet & pc versions.
+4. Features: we can add any of the presented technology card , we can delete any of the technology or all selected technology from the stack & this project is responsive for all mobile , tablet & pc versions.
 
 
 ****Answering the questions :****
