@@ -7,7 +7,7 @@
 4. Features: we can add any of the presented technology card , we can delete any of the technology or all selected technology from the stack & this project is responsive for                all mobile , tablet & pc versions.
 
 
-****Answering the questions****
+****Answering the questions :****
 
 1.JSX is a syntax that lets us write HTML-like code inside JavaScript.
   It makes React components easier to read and write.
